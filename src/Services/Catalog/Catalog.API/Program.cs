@@ -8,5 +8,6 @@ builder.Services.AddMediatR(configuration =>
 
 var app = builder.Build();
 
-// Add Middlewares     
+app.MapCarter();
+
 app.Run();
