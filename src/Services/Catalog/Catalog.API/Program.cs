@@ -1,6 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Add Services
+builder.Services.AddCarter();
+
 
 var app = builder.Build();
 
