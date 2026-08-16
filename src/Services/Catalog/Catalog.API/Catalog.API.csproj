@@ -17,4 +17,9 @@
       <ProjectReference Include="..\..\..\BuildingBlocks\BuildingBlocks\BuildingBlocks.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Mapster" Version="10.0.12" />
+      <PackageReference Include="Marten" Version="9.29.0" />
+    </ItemGroup>
+
 </Project>
