@@ -2,7 +2,7 @@ namespace Catalog.API.Products.CreateProduct;
 
 public record CreateProductResult(Guid Id);
 
-public abstract record CreateProductCommand(
+public record CreateProductCommand(
     List<string> Category,
     string Description,
     string ImageFile,
