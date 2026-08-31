@@ -7,15 +7,23 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
   <component name="CMakeSettings">
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc13f12d-5836-4d2e-ae6d-fa5d63aecc0a" name="Changes" comment="" />
+    <list default="true" id="fc13f12d-5836-4d2e-ae6d-fa5d63aecc0a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.eshop-microservice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.eshop-microservice/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="EmbeddingIndexingInfo">
     <option name="cachedIndexableFilesCount" value="12" />
@@ -27,63 +35,64 @@
     <commands />
     <urls />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0805357122171357" />
-      <entry key="MS500" value="2.058069624755822" />
-      <entry key="S2" value="4.057436486555563" />
-      <entry key="S5" value="9.088318718253339" />
-      <entry key="S10" value="19.113856996061358" />
-      <entry key="S30" value="52.0019420283791" />
-      <entry key="S60" value="84.37872942483526" />
-      <entry key="M2" value="128.6701710773637" />
-      <entry key="M5" value="205.1630260669693" />
-      <entry key="M10" value="263.32637877512366" />
-      <entry key="M15" value="291.43889157127074" />
-      <entry key="M30" value="326.2564646442864" />
-      <entry key="H1" value="346.8434547871336" />
-      <entry key="H2" value="358.0762153146078" />
-      <entry key="H4" value="363.9484631666171" />
-      <entry key="D1" value="368.97867136715007" />
-      <entry key="W1" value="369.85378008900403" />
+      <entry key="MS100" value="2.1971921260898006" />
+      <entry key="MS500" value="4.248160105130699" />
+      <entry key="S2" value="7.907962610930336" />
+      <entry key="S5" value="10.43172212531649" />
+      <entry key="S10" value="12.476407847222074" />
+      <entry key="S30" value="27.80980884153096" />
+      <entry key="S60" value="56.15268331090567" />
+      <entry key="M2" value="111.438589792308" />
+      <entry key="M5" value="245.57139089871816" />
+      <entry key="M10" value="382.6238243326684" />
+      <entry key="M15" value="460.1519583684116" />
+      <entry key="M30" value="566.4292584695401" />
+      <entry key="H1" value="634.6015038047778" />
+      <entry key="H2" value="673.4637546657526" />
+      <entry key="H4" value="694.2471321940867" />
+      <entry key="D1" value="712.3049020547932" />
+      <entry key="W1" value="715.4703930458328" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="5.4752136298717405E-148" />
-      <entry key="S5" value="3.2798617650395685E-59" />
-      <entry key="S10" value="1.5851053014348848E-29" />
-      <entry key="S30" value="1.208941740744221E-9" />
-      <entry key="S60" value="1.187918229527502E-4" />
-      <entry key="M2" value="0.037616151496271934" />
-      <entry key="M5" value="1.1947001092956326" />
-      <entry key="M10" value="3.785754115605722" />
-      <entry key="M15" value="5.5609232522754475" />
-      <entry key="M30" value="8.168766765356322" />
-      <entry key="H1" value="9.900724438273258" />
-      <entry key="H2" value="10.899928137496252" />
-      <entry key="H4" value="11.43674193533916" />
-      <entry key="D1" value="11.904232729279217" />
-      <entry key="W1" value="11.98627192496484" />
+      <entry key="S2" value="1.6102633471813258E-247" />
+      <entry key="S5" value="5.049563936653394E-99" />
+      <entry key="S10" value="1.9667868060468587E-49" />
+      <entry key="S30" value="2.798799333576956E-16" />
+      <entry key="S60" value="5.715704154788585E-8" />
+      <entry key="M2" value="8.251178039388717E-4" />
+      <entry key="M5" value="0.25924807622416607" />
+      <entry key="M10" value="1.7635213533048797" />
+      <entry key="M15" value="3.3416870907650007" />
+      <entry key="M30" value="6.332364945534845" />
+      <entry key="H1" value="8.717093275621917" />
+      <entry key="H2" value="10.227653226259793" />
+      <entry key="H4" value="11.078437235186597" />
+      <entry key="D1" value="11.84124695937339" />
+      <entry key="W1" value="11.977191335609117" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.360118008567719" />
-      <entry key="MS500" value="1.8228825963296404" />
-      <entry key="S2" value="3.9687592939853014" />
-      <entry key="S5" value="9.023528198887643" />
-      <entry key="S10" value="19.06057281861056" />
-      <entry key="S30" value="51.96837766657988" />
-      <entry key="S60" value="84.35478429219992" />
-      <entry key="M2" value="128.6909202804447" />
-      <entry key="M5" value="206.3431969154819" />
-      <entry key="M10" value="267.098168082029" />
-      <entry key="M15" value="296.98757073148573" />
-      <entry key="M30" value="334.4169866688566" />
-      <entry key="H1" value="356.7393580801554" />
-      <entry key="H2" value="368.97353205752364" />
-      <entry key="H4" value="375.38384555199593" />
-      <entry key="D1" value="380.88266969622447" />
-      <entry key="W1" value="381.8400183325688" />
+      <entry key="MS100" value="2.1183657735938004" />
+      <entry key="MS500" value="4.219904866826883" />
+      <entry key="S2" value="7.88710501317333" />
+      <entry key="S5" value="10.418680005904895" />
+      <entry key="S10" value="12.468224910232863" />
+      <entry key="S30" value="27.804335812165984" />
+      <entry key="S60" value="56.14773436990913" />
+      <entry key="M2" value="111.43470454738832" />
+      <entry key="M5" value="245.82452519362897" />
+      <entry key="M10" value="384.37898551301635" />
+      <entry key="M15" value="463.4849464751573" />
+      <entry key="M30" value="572.7545025356062" />
+      <entry key="H1" value="643.3139713281596" />
+      <entry key="H2" value="683.6887628401541" />
+      <entry key="H4" value="705.3241540296542" />
+      <entry key="D1" value="724.1458992943384" />
+      <entry key="W1" value="727.4475483561018" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -96,27 +105,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.Catalog.API: http.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Catalog.API: http">
     <configuration name="Catalog.API: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Services/Catalog/Catalog.API/Catalog.API.csproj" />
@@ -172,7 +182,10 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -192,6 +205,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
