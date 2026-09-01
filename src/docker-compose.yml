@@ -1,4 +1,4 @@
-version: '3.4'
+name: eshop
 
 services:
   catalogdb:
@@ -6,4 +6,5 @@ services:
 
 volumes:
   postgres_catalog:
-      
+    external: true
+    name: src_postgres_catalog
